@@ -12,6 +12,12 @@
   <img src="screenshots/Screenshot_Stats.png" alt="OpenVPN Stats" width="260"/>
 </div>
 
+## 📱 App Preview
+
+| Connected | Disconnected | OpenVPN Stats |
+|-----------|--------------|----------------|
+| ![Connected](screenshots/Screenshot_Connected.png) | ![Disconnected](screenshots/Screenshot_Disconnected.png) | ![Stats](screenshots/Screenshot_Stats.png) |
+
 ---
 
 ## 🚀 Features
