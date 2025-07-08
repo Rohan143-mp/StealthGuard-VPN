@@ -1,16 +1,32 @@
-# StealthGuard VPN
+# 🛡️ StealthGuard VPN
 
-**StealthGuard VPN** is an Android-based virtual private network (VPN) application that utilizes OpenVPN protocol to provide a secure and private internet connection. This project is ideal for users who want to build their own private VPN client app for Android.
+**StealthGuard VPN** is a secure and lightweight Android-based VPN application that utilizes the **OpenVPN** protocol. This app helps protect user privacy by masking IP addresses and encrypting traffic, with a modern and user-friendly interface.
 
-## Features
+---
 
-- 📶 Secure VPN connection using OpenVPN
-- 🔐 Privacy protection by masking IP and encrypting traffic
-- 💡 Simple and clean user interface
-- ⚙️ Configurable `.ovpn` profile integration
-- 🚀 Built using Android SDK, Java/Kotlin, and Gradle
+## 📱 App Preview
 
-## Project Structure
+<div align="center">
+  <img src="screenshots/Screenshot_Connected.png" alt="Connected Screen" width="260"/>
+  <img src="screenshots/Screenshot_Disconnected.png" alt="Disconnected Screen" width="260"/>
+  <img src="screenshots/Screenshot_Stats.png" alt="OpenVPN Stats" width="260"/>
+</div>
+
+---
+
+## 🚀 Features
+
+- 🔒 Secure VPN connection using OpenVPN
+- 🛡️ IP masking and encrypted data transmission
+- 💡 Intuitive and clean user interface
+- ⚙️ Easy integration of `.ovpn` profiles
+- 📊 Real-time upload/download speed indicators
+- 📱 Built with Android SDK (Java/Kotlin) & Gradle
+
+---
+
+## 📁 Project Structure
+
 
 ```
 StealthGuardVPN/
