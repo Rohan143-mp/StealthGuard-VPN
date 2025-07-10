@@ -22,8 +22,6 @@
 ---
 
 ## 📁 Project Structure
-
-
 ```
 StealthGuardVPN/
 ├── app/
