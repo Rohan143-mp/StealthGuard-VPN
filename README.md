@@ -61,10 +61,6 @@ Make sure to include the following permissions in your `AndroidManifest.xml` if 
 <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
 ```
 
-## Screenshots
-
-*(Add screenshots of your app UI here if available)*
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
