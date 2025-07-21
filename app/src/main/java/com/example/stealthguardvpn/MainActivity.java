@@ -1,5 +1,4 @@
 package com.example.stealthguardvpn;
-
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
@@ -36,6 +35,7 @@ public class MainActivity extends AppCompatActivity {
         startService(intent);
     }
 
+    
     public void updateStatus(String status) {
         statusText.setText(status);
     }
