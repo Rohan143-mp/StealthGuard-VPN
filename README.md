@@ -1,6 +1,7 @@
 # 🛡️ StealthGuard VPN
 
 **StealthGuard VPN** is a secure and lightweight Android-based VPN application that utilizes the **OpenVPN** protocol. This app helps protect user privacy by masking IP addresses and encrypting traffic, with a modern and user-friendly interface.
+
 ## 📱 App Preview
 
 | Connected | Disconnected | OpenVPN Stats |
