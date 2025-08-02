@@ -57,7 +57,6 @@ StealthGuardVPN/
 ## Permissions
 
 Make sure to include the following permissions in your `AndroidManifest.xml` if not already present:
-
 ```xml
 <uses-permission android:name="android.permission.INTERNET" />
 <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
