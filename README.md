@@ -8,7 +8,6 @@
 | ![Connected](screenshots/Screenshot_Connected.png) | ![Disconnected](screenshots/Screenshot_Disconnected.png) | ![Stats](screenshots/Screenshot_Stats.png) |
 
 ---
-
 ## 🚀 Features
 
 - 🔒 Secure VPN connection using OpenVPN
