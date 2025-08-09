@@ -17,7 +17,7 @@
 - 📊 Real-time upload/download speed indicators
 - 📱 Built with Android SDK (Java/Kotlin) & Gradle
 
----
+--
 
 ## 📁 Project Structure
 ```
