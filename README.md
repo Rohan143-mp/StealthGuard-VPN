@@ -54,6 +54,7 @@ StealthGuardVPN/
 5. Build and run the app on a physical Android device or emulator.
 
 ## Permissions
+#Require all permissions to run properly
 
 Make sure to include the following permissions in your `AndroidManifest.xml` if not already present:
 ```xml
