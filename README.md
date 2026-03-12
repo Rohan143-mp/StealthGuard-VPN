@@ -46,6 +46,7 @@ StealthGuardVPN/
 - Android Studio (Arctic Fox or higher recommended)
 - Android SDK (API level 26+)
 - Internet connection for dependency resolution
+  
 
 ### How to Run
 
