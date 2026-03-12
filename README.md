@@ -15,6 +15,7 @@
 - 🔒 Secure VPN connection using OpenVPN
 - 🛡️ IP masking and encrypted data transmission
 - 💡 Intuitive and clean user interface
+- 
 - ⚙️ Easy integration of `.ovpn` profiles
 - 📊 Real-time upload/download speed indicators
 - 📱 Built with Android SDK (Java/Kotlin) & Gradle
