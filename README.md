@@ -61,6 +61,7 @@ StealthGuardVPN/
 
 ## Permissions
 #Require all permissions to run properly
+#All Are mendatory
 
 Make sure to include the following permissions in your `AndroidManifest.xml` if not already present:
 ```xml
