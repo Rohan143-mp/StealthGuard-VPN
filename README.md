@@ -70,6 +70,7 @@ Make sure to include the following permissions in your `AndroidManifest.xml` if 
 ```
 ## License
 
+
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 --- link "**https://github.com/Rohan143-mp/StealthGuard-VPN**
