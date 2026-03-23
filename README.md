@@ -37,6 +37,7 @@ StealthGuardVPN/
 │   │   │   │   └── MyVpnService.java
 │   │   │   ├── res/
 │   │   │   └── assets/userrrr.ovpn
+|
 │   └── build.gradle.kts
 ├── build.gradle.kts
 ├── settings.gradle.kts
